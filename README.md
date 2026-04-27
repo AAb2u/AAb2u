@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Abdenour
 
-<!--
-**AAb2u/AAb2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer passionate about building useful and impactful solutions.
 
-Here are some ideas to get you started:
+I enjoy solving real-world problems by creating web applications, mobile apps, and software tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the past few years, I have worked on multiple projects that improved workflows and helped automate processes for companies.
+
+Tech stack
+C# / .NET
+Web technologies
+Problem solving and system design
+Objective
+
+Build efficient, scalable, and reliable solutions that bring real value.
