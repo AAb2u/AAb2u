@@ -1,9 +1,26 @@
-# 💫 About Me:
+<div align="center">
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Abdenour%20Akrour&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Game%20Dev%20Enthusiast&descSize=18&descAlignY=75)
+</div>
+
+# 💫 About Me
+
+<table>
+<tr>
+<td width="60%">
+
 Hi, I'm Abdenour
-
 Software Engineer passionate about problem solving and object-oriented programming. I design and build scalable solutions across web, mobile, and software systems.
-
 I am particularly interested in game development and creating interactive experiences. With a creative mindset and skills in design and 3D modeling, I aim to build solutions that combine performance, structure, and visual quality.
+
+</td>
+<td width="40%" align="center">
+
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials
