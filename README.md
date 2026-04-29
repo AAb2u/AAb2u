@@ -1,13 +1,9 @@
 # 💫 About Me:
 Hi, I'm Abdenour
 
-Software Engineer with a strong interest in object-oriented programming and problem solving. I enjoy designing and building software solutions, from web and mobile applications to more complex systems.
+Software Engineer passionate about problem solving and object-oriented programming. I design and build scalable solutions across web, mobile, and software systems.
 
-I am particularly interested in game development and the technical challenges behind creating interactive and immersive experiences.
-
-Beyond programming, I have an artistic side. I like working on design, creating models, and drawing, which helps me bring a creative perspective to my projects.
-
-I aim to build efficient, scalable, and well-structured solutions that combine both technical quality and creativity.
+I am particularly interested in game development and creating interactive experiences. With a creative mindset and skills in design and 3D modeling, I aim to build solutions that combine performance, structure, and visual quality.
 
 
 ## 🌐 Socials:
