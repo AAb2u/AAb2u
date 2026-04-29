@@ -16,7 +16,7 @@ I am particularly interested in game development and creating interactive experi
 </td>
 <td width="40%" align="center">
 
-![coding gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+![coding gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJqeHU1bmVleG9iY2thNm12NHFscXVubW50d2d2eHJ4NTMzM3N3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 </td>
 </tr>
