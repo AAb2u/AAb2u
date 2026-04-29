@@ -5,8 +5,7 @@ Software Engineer passionate about problem solving and object-oriented programmi
 
 I am particularly interested in game development and creating interactive experiences. With a creative mindset and skills in design and 3D modeling, I aim to build solutions that combine performance, structure, and visual quality.
 
-<img align="right" alt ="" width = "400" src= "<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/eefdcc4f-0662-4efb-b15f-a9ea06bc6c38" />
-">
+<img align="right" width="400" src="https://github.com/user-attachments/assets/eefdcc4f-0662-4efb-b15f-a9ea06bc6c38" />
 
 
 ## 🌐 Socials:
