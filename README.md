@@ -1,6 +1,5 @@
 <div align="center">
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Abdenour%20Akrour&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Game%20Dev%20Enthusiast&descSize=18&descAlignY=75)
+  <img src="./assets/banner.svg" width="100%" alt="Abdenour Akrour - Character Profile"/>
 </div>
 
 # 💫 About Me
