@@ -1,0 +1,119 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Banner retro RPG pour Abdenour Akrour</title>
+  <desc>Carte de personnage style RPG pixel art avec stats et portrait</desc>
+
+  <rect width="680" height="200" fill="#1a1a2e"/>
+
+  <rect width="680" height="200" fill="url(#scan)" opacity="0.04"/>
+  <defs>
+    <pattern id="scan" x="0" y="0" width="2" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#ffffff"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x="6" y="6" width="668" height="188" fill="none" stroke="#e8c96b" stroke-width="2"/>
+  <rect x="10" y="10" width="660" height="180" fill="none" stroke="#c49a3c" stroke-width="1"/>
+
+  <rect x="6" y="6" width="10" height="2" fill="#1a1a2e"/>
+  <rect x="6" y="6" width="2" height="10" fill="#1a1a2e"/>
+  <rect x="664" y="6" width="10" height="2" fill="#1a1a2e"/>
+  <rect x="672" y="6" width="2" height="10" fill="#1a1a2e"/>
+  <rect x="6" y="182" width="10" height="2" fill="#1a1a2e"/>
+  <rect x="6" y="184" width="2" height="10" fill="#1a1a2e"/>
+  <rect x="664" y="182" width="10" height="2" fill="#1a1a2e"/>
+  <rect x="672" y="182" width="2" height="10" fill="#1a1a2e"/>
+
+  <polygon points="6,6 14,6 6,14" fill="#e8c96b"/>
+  <polygon points="674,6 666,6 674,14" fill="#e8c96b"/>
+  <polygon points="6,194 14,194 6,186" fill="#e8c96b"/>
+  <polygon points="674,194 666,194 674,186" fill="#e8c96b"/>
+
+  <rect x="10" y="10" width="660" height="22" fill="#0f0f1a"/>
+  <text x="340" y="25" font-family="'Courier New', monospace" font-size="11" fill="#e8c96b" text-anchor="middle" letter-spacing="4" font-weight="700">✦ CHARACTER PROFILE ✦</text>
+  <line x1="10" y1="32" x2="670" y2="32" stroke="#c49a3c" stroke-width="1"/>
+
+  <rect x="22" y="42" width="100" height="110" fill="#0f0f1a" stroke="#c49a3c" stroke-width="1"/>
+  <rect x="52" y="72" width="42" height="50" fill="#2a2a4a"/>
+  <rect x="57" y="52" width="32" height="32" fill="#c49a3c" opacity="0.85"/>
+  <rect x="63" y="63" width="6" height="5" fill="#1a1a2e"/>
+  <rect x="77" y="63" width="6" height="5" fill="#1a1a2e"/>
+  <rect x="64" y="63" width="2" height="2" fill="#ffffff" opacity="0.6"/>
+  <rect x="78" y="63" width="2" height="2" fill="#ffffff" opacity="0.6"/>
+  <rect x="66" y="73" width="14" height="3" fill="#1a1a2e"/>
+  <rect x="68" y="74" width="10" height="2" fill="#e8a87c" opacity="0.4"/>
+  <rect x="57" y="50" width="32" height="8" fill="#3a2a1a"/>
+  <rect x="55" y="54" width="4" height="12" fill="#3a2a1a"/>
+  <rect x="87" y="54" width="4" height="12" fill="#3a2a1a"/>
+  <rect x="48" y="48" width="50" height="10" fill="#1a1a2e" opacity="0.5"/>
+  <rect x="52" y="72" width="12" height="8" fill="#4a3a6a"/>
+  <rect x="82" y="72" width="12" height="8" fill="#4a3a6a"/>
+  <rect x="66" y="82" width="14" height="10" rx="2" fill="#e8c96b" opacity="0.9"/>
+  <text x="73" y="91" font-family="monospace" font-size="7" fill="#1a1a2e" text-anchor="middle" font-weight="700">DEV</text>
+
+  <rect x="22" y="156" width="100" height="16" fill="#0f0f1a" stroke="#c49a3c" stroke-width="0.5"/>
+  <text x="72" y="168" font-family="'Courier New', monospace" font-size="9" fill="#e8c96b" text-anchor="middle" letter-spacing="0.5">LVL 22 · ALGERIA</text>
+
+  <rect x="136" y="42" width="280" height="130" fill="#0f0f1a" stroke="#c49a3c" stroke-width="0.5" opacity="0.5"/>
+
+  <text x="148" y="64" font-family="'Courier New', monospace" font-size="20" fill="#ffffff" font-weight="700" letter-spacing="1">ABDENOUR</text>
+  <text x="148" y="84" font-family="'Courier New', monospace" font-size="20" fill="#e8c96b" font-weight="700" letter-spacing="1">AKROUR</text>
+
+  <rect x="148" y="92" width="72" height="14" rx="2" fill="#1e1040" stroke="#7f77dd" stroke-width="0.75"/>
+  <text x="184" y="103" font-family="monospace" font-size="9" fill="#7f77dd" text-anchor="middle">◈ Engineer</text>
+  <rect x="228" y="92" width="76" height="14" rx="2" fill="#0a1e12" stroke="#1d9e75" stroke-width="0.75"/>
+  <text x="266" y="103" font-family="monospace" font-size="9" fill="#1d9e75" text-anchor="middle">⚔ Game Dev</text>
+  <rect x="312" y="92" width="68" height="14" rx="2" fill="#1a120a" stroke="#c49a3c" stroke-width="0.75"/>
+  <text x="346" y="103" font-family="monospace" font-size="9" fill="#c49a3c" text-anchor="middle">✦ Designer</text>
+
+  <text x="148" y="125" font-family="monospace" font-size="9" fill="#888" letter-spacing="1">CODE</text>
+  <rect x="183" y="116" width="100" height="8" rx="1" fill="#0f0f1a" stroke="#333" stroke-width="0.5"/>
+  <rect x="183" y="116" width="90" height="8" rx="1" fill="#7f77dd"/>
+  <text x="290" y="124" font-family="monospace" font-size="9" fill="#7f77dd">90</text>
+
+  <text x="148" y="141" font-family="monospace" font-size="9" fill="#888" letter-spacing="1">GAME</text>
+  <rect x="183" y="132" width="100" height="8" rx="1" fill="#0f0f1a" stroke="#333" stroke-width="0.5"/>
+  <rect x="183" y="132" width="78" height="8" rx="1" fill="#1d9e75"/>
+  <text x="290" y="140" font-family="monospace" font-size="9" fill="#1d9e75">78</text>
+
+  <text x="148" y="157" font-family="monospace" font-size="9" fill="#888" letter-spacing="1">DESIGN</text>
+  <rect x="183" y="148" width="100" height="8" rx="1" fill="#0f0f1a" stroke="#333" stroke-width="0.5"/>
+  <rect x="183" y="148" width="82" height="8" rx="1" fill="#c49a3c"/>
+  <text x="290" y="156" font-family="monospace" font-size="9" fill="#c49a3c">82</text>
+
+  <text x="148" y="173" font-family="monospace" font-size="9" fill="#888" letter-spacing="1">3D</text>
+  <rect x="183" y="164" width="100" height="8" rx="1" fill="#0f0f1a" stroke="#333" stroke-width="0.5"/>
+  <rect x="183" y="164" width="70" height="8" rx="1" fill="#d4537e"/>
+  <text x="290" y="172" font-family="monospace" font-size="9" fill="#d4537e">70</text>
+
+  <rect x="430" y="42" width="232" height="130" fill="#0f0f1a" stroke="#c49a3c" stroke-width="0.5" opacity="0.5"/>
+  <text x="442" y="58" font-family="monospace" font-size="9" fill="#c49a3c" letter-spacing="2">▸ EQUIPPED</text>
+  <line x1="442" y1="62" x2="652" y2="62" stroke="#333" stroke-width="0.5"/>
+
+  <text x="442" y="78" font-family="monospace" font-size="10" fill="#888">⚙</text>
+  <text x="458" y="78" font-family="monospace" font-size="10" fill="#ffffff">Unity  </text>
+  <text x="510" y="78" font-family="monospace" font-size="10" fill="#888">+ C#</text>
+  <text x="442" y="93" font-family="monospace" font-size="10" fill="#888">🗡</text>
+  <text x="458" y="93" font-family="monospace" font-size="10" fill="#ffffff">Unreal </text>
+  <text x="510" y="93" font-family="monospace" font-size="10" fill="#888">+ C++</text>
+  <text x="442" y="108" font-family="monospace" font-size="10" fill="#888">🛡</text>
+  <text x="458" y="108" font-family="monospace" font-size="10" fill="#ffffff">React  </text>
+  <text x="510" y="108" font-family="monospace" font-size="10" fill="#888">+ Next</text>
+  <text x="442" y="123" font-family="monospace" font-size="10" fill="#888">✦</text>
+  <text x="458" y="123" font-family="monospace" font-size="10" fill="#ffffff">Blender</text>
+  <text x="510" y="123" font-family="monospace" font-size="10" fill="#888">3D</text>
+  <text x="442" y="138" font-family="monospace" font-size="10" fill="#888">◎</text>
+  <text x="458" y="138" font-family="monospace" font-size="10" fill="#ffffff">Figma  </text>
+  <text x="510" y="138" font-family="monospace" font-size="10" fill="#888">+ Krita</text>
+  <text x="442" y="153" font-family="monospace" font-size="10" fill="#888">⚡</text>
+  <text x="458" y="153" font-family="monospace" font-size="10" fill="#ffffff">Python </text>
+  <text x="510" y="153" font-family="monospace" font-size="10" fill="#888">+ Java</text>
+
+  <line x1="10" y1="176" x2="670" y2="176" stroke="#c49a3c" stroke-width="1"/>
+  <rect x="10" y="176" width="660" height="14" fill="#0f0f1a"/>
+  <text x="22" y="187" font-family="monospace" font-size="9" fill="#555">▶ PRESS START</text>
+  <text x="340" y="187" font-family="monospace" font-size="9" fill="#555" text-anchor="middle">OOP · PROBLEM SOLVING · SCALABLE SYSTEMS</text>
+  <text x="648" y="187" font-family="monospace" font-size="9" fill="#555" text-anchor="end">© 2025</text>
+</svg>
