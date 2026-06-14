@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="Abdenour Akrour — Software Engineer"/>
+</div>
+
+---
+
 <sub>software engineer</sub>
 
 # Abdenour Akrour
