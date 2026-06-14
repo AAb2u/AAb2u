@@ -1,33 +1,34 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Abdenour Akrour — Software Engineer"/>
 </div>
+
 ---
 
-<sub>software engineer</sub>
+<sub>about</sub>
 
-# Abdenour Akrour
+### Abdenour Akrour
 
-Passionate about problem solving, OOP, and game development.  
-I build scalable solutions across web, mobile and software systems —  
+Passionate about problem solving, OOP, and game development.<br/>
+I build scalable solutions across web, mobile and software systems —<br/>
 with a focus on performance, structure, and visual quality.
 
 ---
 
-**languages**
+**LANGUAGES**
 
-`C` `C++` `C#` `Java` `JavaScript` `Python`
+`C` &nbsp; `C++` &nbsp; `C#` &nbsp; `Java` &nbsp; `JavaScript` &nbsp; `Python`
 
-**tools & frameworks**
+**TOOLS & FRAMEWORKS**
 
-`.NET` `React` `Next.js` `Node.js` `Qt` `MySQL` `Unity` `Unreal Engine`
+`.NET` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Node.js` &nbsp; `Qt` &nbsp; `MySQL` &nbsp; `Unity` &nbsp; `Unreal Engine`
 
-**design & 3d**
+**DESIGN & 3D**
 
-`Blender` `Figma` `Krita` `Aseprite`
+`Blender` &nbsp; `Figma` &nbsp; `Krita` &nbsp; `Aseprite`
 
 ---
 
-**github stats**
+**GITHUB STATS**
 
 ![stats](https://github-readme-stats.shion.dev/api?username=AAb2u&theme=transparent&hide_border=true&hide_title=true)
 
@@ -35,6 +36,6 @@ with a focus on performance, structure, and visual quality.
 
 ---
 
-**connect**
+**CONNECT**
 
 [linkedin →](https://www.linkedin.com/in/akrour-abdenour-08a10235b/) &nbsp;&nbsp; [instagram →](https://instagram.com/12dou__)
